@@ -1,12 +1,7 @@
 {
   "mode": "auto",
   "auto_since": 1791646510,
-  "holds": {
-    "1353182663366894": true,
-    "2637488373433316": true,
-    "1683284913438022": true,
-    "1144041351468166": true
-  },
+  "holds": {},
   "cloud": {
     "repo": "geromemusnit-autocommenter/dailyparcel-autocomment"
   }
