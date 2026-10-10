@@ -1,8 +1,8 @@
 {
-    "mode": "preview",
-    "auto_since": null,
-    "holds": {},
-    "cloud": {
-        "repo": "geromemusnit-autocommenter/dailyparcel-autocomment"
-    }
+  "mode": "auto",
+  "auto_since": 1791646510,
+  "holds": {},
+  "cloud": {
+    "repo": "geromemusnit-autocommenter/dailyparcel-autocomment"
+  }
 }
